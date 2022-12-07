@@ -1,2 +1,2 @@
-# javascript-blockchain
+# Javascript Blockchain
 Simple blockchain in Javascript
